@@ -2,7 +2,7 @@
   --border-color-accent-1: 1px solid
     rgba(var(--accent-color-1), var(--border-brightness));
   /* Common Backgrounds */
-  --opera-gx-bg-1: url(https://hudson6co.github.io/hudson.github.io/assets/images/Crucify.png);
+  --opera-gx-bg-2: url(https://hudson6co.github.io/hudson.github.io/assets/images/Crucify.png);
 }
 
 .theme-light,
