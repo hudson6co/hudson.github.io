@@ -2,7 +2,7 @@
   --border-color-accent-1: 1px solid
     rgba(var(--accent-color-1), var(--border-brightness));
   /* Common Backgrounds */
-  --opera-gx-bg-3: url(https://hudson6co.github.io/hudson.github.io/assets/images/miss.png);
+  --opera-gx-bg-4: url(https://hudson6co.github.io/hudson.github.io/assets/images/stripes.png);
 }
 
 .theme-light,
